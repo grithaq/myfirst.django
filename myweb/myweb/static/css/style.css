@@ -1,0 +1,30 @@
+header{
+    width: 100%;
+    max-width: 100%;
+}
+
+.navbar{
+    background-color: #000d0e;
+    height: 57px;
+    position: relative;
+    color: #ffffff
+}
+.navbar > a{
+    font-size: 33px;
+    position: absolute;
+    top: 9px;
+    left: 10px;
+}
+
+.navbar-right{
+    list-style: none;
+    display: inline-flex;
+    right: 0;
+    position: absolute;
+    bottom: 7px;
+}
+.navbar-right > li{
+    margin-right: 10px;
+    margin-left: 10px; 
+    color: #ffffff
+}
