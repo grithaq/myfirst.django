@@ -5,6 +5,8 @@ from core.models import *
 
 
 
-admin.site.register(AccesRecord)
-admin.site.register(Webpage)
-admin.site.register(Topic)
+admin.site.register(Person)
+admin.site.register(Partai)
+admin.site.register(KategoriCaleg)
+admin.site.register(Caleg)
+admin.site.register(Dapil)
